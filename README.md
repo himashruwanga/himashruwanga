@@ -13,7 +13,8 @@
   <a href="http://www.himashruwanga.online/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/himash-ruwanga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:himashreigns@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=himashreigns&style=for-the-badge&color=38bdf8&label=Profile+Views" alt="Profile views"/>
+  <a href="https://github.com/himashreigns"><img src="https://img.shields.io/badge/Projects%20Account-himashreigns-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=himashruwanga&style=for-the-badge&color=38bdf8&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ---
@@ -29,6 +30,7 @@
 - 🧪 Former **Intern QA Engineer** at **4 Axis Solutions**: manual and automated testing of web and Android apps
 - 💡 Passionate about **backend systems, clean code and reliable software**
 - 🌱 Exploring **large-scale distributed systems** and **functional programming**
+- 📂 My personal and university projects are on **[@himashreigns](https://github.com/himashreigns)**
 - 📍 Sri Lanka 🇱🇰
 
 </td>
@@ -88,16 +90,16 @@ const himash = {
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=himashreigns&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashreigns&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=himashruwanga&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashruwanga&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=himashreigns&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=himashruwanga&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himashreigns&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himashruwanga&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -122,6 +124,10 @@ const himash = {
 | 🍹 **[Automated Beverage Mixer](https://youtu.be/W81GyNX0tWQ)** | IoT beverage mixer built with Arduino and sensors (team leader) | Arduino |
 | 🌐 **[Portfolio Website](http://www.himashruwanga.online/)** | Personal portfolio showcasing my projects, skills and achievements | HTML · CSS · JavaScript |
 
+<p align="center">
+  <a href="https://github.com/himashreigns?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20projects-@himashreigns-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="All projects"/></a>
+</p>
+
 ---
 
 ## 🏆 Coding Achievements
@@ -140,9 +146,9 @@ const himash = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himashreigns/himashreigns/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himashreigns/himashreigns/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/himashreigns/himashreigns/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himashruwanga/himashruwanga/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himashruwanga/himashruwanga/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/himashruwanga/himashruwanga/output/github-snake.svg" width="100%" />
   </picture>
 </p>
 
