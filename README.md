@@ -90,8 +90,11 @@ const himash = {
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=himashruwanga&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashruwanga&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/himashruwanga/himashruwanga/main/metrics/stats.svg" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/himashruwanga/himashruwanga/main/metrics/languages.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -99,19 +102,14 @@ const himash = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himashruwanga&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/himashruwanga/himashruwanga/main/metrics/calendar.svg" alt="Contribution Calendar" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/himashreigns/AgroPredict">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himashreigns&repo=AgroPredict&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
-  </a>
-  <a href="https://github.com/himashreigns/realEstate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himashreigns&repo=realEstate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
+  <a href="https://github.com/himashreigns?tab=repositories">
+    <img src="https://raw.githubusercontent.com/himashruwanga/himashruwanga/main/metrics/projects.svg" alt="Featured Projects" />
   </a>
 </p>
 
